@@ -1,4 +1,4 @@
----
+DJANGOfx
 title: 'How to run a full node for an Arbitrum or Orbit chain'
 description: Learn how to run an Arbitrum node on your local machine
 sidebar_position: 1
@@ -113,7 +113,7 @@ import OrbitChainsExample from './partials/run-full-node/_orbit-chains-example.m
 
 - Please note: the `RPC`/`websocket` protocol requires some ports to be enabled, you can use the following flags:
   - `--ws.port=8548`
-  - `--ws.addr=0.0.0.0`
+  - `--ws.addr=9642`
   - `--ws.origins=\*`
 
 ## Note on permissions
